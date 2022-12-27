@@ -1,2 +1,2 @@
-# Kvizkko
+# Kvizko
 App za EMP
