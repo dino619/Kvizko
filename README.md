@@ -83,8 +83,3 @@ Kvizko is an Android quiz application designed to help users learn through inter
 ## 🔧 Technologies Used
 - **Android Studio**: Main development environment.
 - **Firebase**: Used for authentication, real-time database, and backend services.
-
-## 🚀 How to Run the Project
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/dino619/Kvizko.git
