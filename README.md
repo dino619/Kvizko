@@ -19,34 +19,25 @@ Kvizko is an Android quiz application designed to help users learn through inter
 ### **Quiz Selection**
 | Category List | Quiz Selection |
 |--------------|--------------|
-| ![Category List](![418285617-1cf1b75a-8206-4233-bc39-a7203391d8e2](https://github.com/user-attachments/assets/53bcd343-a333-4055-b5bf-490c5d4d2388)
-) | ![Quiz Selection](![418285630-65ba318f-b97d-40fd-93f3-db94159ccb06](https://github.com/user-attachments/assets/91f95269-7aff-422e-a799-d3b86d5ed3f4)
-) |
+| ![Category List](https://github.com/user-attachments/assets/53bcd343-a333-4055-b5bf-490c5d4d2388) | ![Quiz Selection](https://github.com/user-attachments/assets/91f95269-7aff-422e-a799-d3b86d5ed3f4) |
 | **Description:** When selecting a category, users see all available tests along with a progress bar showing their best score. | **Description:** Users can view test details, including category, total questions, best score, time limit, and a start button. |
 
 ### **Taking a Quiz**
 | Quiz Questions | Answer Grid |
 |---------------|-------------|
-| ![Quiz Questions](![418285620-4760ac83-891a-4a25-aed3-ceb7466397bc](https://github.com/user-attachments/assets/3c519886-e3f0-4e94-aac3-7dec5bb5f69a)
-) | ![Answer Grid](![418285621-83fcdac6-d937-4e1b-859d-7686d33b7f6a](https://github.com/user-attachments/assets/30ba6a67-ab80-4c87-8546-297b62702b75)
-) |
+| ![Quiz Questions](https://github.com/user-attachments/assets/3c519886-e3f0-4e94-aac3-7dec5bb5f69a) | ![Answer Grid](https://github.com/user-attachments/assets/30ba6a67-ab80-4c87-8546-297b62702b75) |
 | **Description:** The quiz interface features multiple-choice questions, allowing users to navigate using buttons or swipe gestures. Additional options include clearing a selected answer and marking a question for review. | **Description:** The answer grid displays different statuses: **Answered**, **Unanswered**, **Not Visited**, and **Review** (for marked questions). |
 
 ### **Results & Performance Tracking**
 | Quiz Result | Answer Review |
 |------------|--------------|
-| ![Quiz Result](![418285624-a01425d2-4911-4ac3-ab53-530aa8e24e99](https://github.com/user-attachments/assets/866592a5-6faa-4015-baf0-18772c3f34c3)
-) | ![Answer Review](![418285618-80ca7893-0b93-484c-82e0-716e366bd808](https://github.com/user-attachments/assets/0c893d37-fc08-4a06-9e30-014f495fbfb0)
-) |
+| ![Quiz Result](https://github.com/user-attachments/assets/866592a5-6faa-4015-baf0-18772c3f34c3) | ![Answer Review](https://github.com/user-attachments/assets/0c893d37-fc08-4a06-9e30-014f495fbfb0) |
 | **Description:** After completing a quiz, users receive a percentage score, total time taken, and the count of correct, incorrect, and unanswered questions. | **Description:** Users can review their answers to see which questions were correct, incorrect, or left blank. |
 
 ### **Leaderboard & Profile**
 | Leaderboard | My Account | Saved Questions |
 |------------|-----------|----------------|
-| ![Leaderboard](![418285622-99694d09-7bfd-4449-9f19-68b2f0217249](https://github.com/user-attachments/assets/34cd57fc-faa8-42d2-bd0d-c232f1d84ecd)
-) | ![My Account](![418285619-a007b2d5-925d-44b1-ab6a-10f71e949901](https://github.com/user-attachments/assets/27a821fe-1e79-4790-be5d-82580961013c)
-) | ![Saved Questions](![418285623-3e31898b-255a-4a70-a85a-84998c1f14ed](https://github.com/user-attachments/assets/a33669b5-72e8-470a-b831-ee2560c5488e)
-) |
+| ![Leaderboard](https://github.com/user-attachments/assets/34cd57fc-faa8-42d2-bd0d-c232f1d84ecd) | ![My Account](https://github.com/user-attachments/assets/27a821fe-1e79-4790-be5d-82580961013c) | ![Saved Questions](https://github.com/user-attachments/assets/a33669b5-72e8-470a-b831-ee2560c5488e) |
 | **Description:** The leaderboard ranks users based on their quiz scores and shows their current standing. | **Description:** The "My Account" section displays user details, ranking, and access to profile settings and logout. | **Description:** Users can save specific questions for later review. |
 
 ---
