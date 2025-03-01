@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752729341389",
+    "project_id": "kvizko-b44c7",
+    "storage_bucket": "kvizko-b44c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752729341389:android:875306679d9cd414149884",
+        "android_client_info": {
+          "package_name": "com.example.kvizko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752729341389-bd361hm0icsokcgiercqh3r3vdj0pn8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kvizko",
+            "certificate_hash": "7e2203b8ca74b56aa6a3431cb9c0bd3c91263fe5"
+          }
+        },
+        {
+          "client_id": "752729341389-m53aantbqep8sdfj41pjco38ovu7b0g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsC1S5RfYmqBTKpoF6hC9k80erilWdnCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752729341389-m53aantbqep8sdfj41pjco38ovu7b0g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
